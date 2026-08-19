@@ -8,7 +8,7 @@
 仓库地址: https://github.com/7891mc/FluentMC.git
 构建工具: Maven (pom.xml)
 运行环境: Java 21+, Minecraft 1.21.8 (Paper/Spigot)
-官网：有.雨.top
+官网：[有.雨.top](https://xn--8ov.xn--ep5a.top/)
 
 ================================================================================
 一、项目概述
