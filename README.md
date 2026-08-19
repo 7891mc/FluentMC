@@ -5,7 +5,7 @@
 项目名称: FluentMC
 版本号:   1.0.0
 作者:     FluentMC
-仓库地址: 
+仓库地址: https://github.com/7891mc/FluentMC.git
 构建工具: Maven (pom.xml)
 运行环境: Java 21+, Minecraft 1.21.8 (Paper/Spigot)
 
